@@ -12,7 +12,7 @@
   > Eureka Github Wiki : [https://github.com/Netflix/eureka/wiki](https://github.com/Netflix/eureka/wiki)
 
   - 模块：
-    - 服务中心：`eureka-server：8888`
+    - 服务中心：`eureka-server：8888` [https://github.com/AlanSGitHub/SpringCloudDemo/tree/master/eureka-server](https://github.com/AlanSGitHub/SpringCloudDemo/tree/master/eureka-server)
     - 服务生产者模块：`eureka-producer：8081`
 
 - Rebbion + RestTamplate
