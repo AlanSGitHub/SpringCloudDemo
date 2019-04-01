@@ -1,4 +1,5 @@
 # SpringCloudDemo
+
 > SpringCloud微服务框架，微服务框架Demo搭建与学习。
 
 ## 组件：
@@ -13,16 +14,15 @@
 
   - 模块：
     - [服务中心](https://github.com/AlanSGitHub/SpringCloudDemo/tree/master/eureka-server)：`eureka-server：8888`
-    - 服务生产者模块：`eureka-producer：8081`
+    - 服务生产者模块：`eureka-producer：8281`、`eureka-producer：8282`、`eureka-producer：8283`
 
 - Rebbion + RestTamplate
 
   - 模块：
-    - 服务消费者模块：`service-ribbon：8082`
+    - 服务消费者模块：`service-ribbon：8080`
 
 - Feign
 
 - Hystri
 
 - Zuul
-
