@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-producer" />
+        <module name="eureka-producer2" />
+        <module name="eureka-producer3" />
         <module name="eureka-server" />
         <module name="service-ribbon" />
         <module name="springCloud" />

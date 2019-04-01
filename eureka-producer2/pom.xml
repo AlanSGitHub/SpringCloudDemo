@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.max</groupId>
-    <artifactId>eureka-producer1</artifactId>
+    <artifactId>eureka-producer2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-producer1</name>
-    <description>服务生产者</description>
+    <name>eureka-producer2</name>
+    <description>Demo project for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -30,7 +30,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
