@@ -3,9 +3,8 @@ SpringCloud微服务框架
 
 ## 组件：
 
-- Eureka
-
-- Rebbion
+- Eurek(包含)
+- Rebbion(包含)
 - Feign
 - Hystri
 - Zuul
